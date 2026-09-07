@@ -1,0 +1,25 @@
+# Smart Utility Toolkit
+
+A simple Node.js project that demonstrates basic backend concepts using Node.js core modules.
+
+## Features
+
+- Calculator using `process.argv`
+- Custom modules using `import` and `export`
+- Basic HTTP server using `http`
+- File management using `fs`
+- Random dice generator using `crypto`
+
+## Technologies Used
+
+- Node.js
+- JavaScript
+- Node.js Core Modules:
+  - `process`
+  - `http`
+  - `fs`
+  - `crypto`
+
+
+### Author
+Chirag Satbir Yadav
